@@ -2,37 +2,37 @@
     "Collections":[
         {
             "name":"Grapple",
-            "preview_url":"RAW Link",
-            "preview_thumbnail_url":"RAW Link"
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/grapple/master/1.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/grapple/master/1.png"
         },
         {
             "name":"Res",
-            "preview_url":"RAW Link",
-            "preview_thumbnail_url":"RAW Link"
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/grapple/master/1.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/grapple/master/1.png"
         }
     ],
     
 	
 	"Wallpapers":[
         {
-            "name":"Name",
-            "author":"Name",
-            "url":"RAW Link",
-            "collections":"name, name",
+            "name":"Eddie",
+            "author":"Metodix",
+            "url":"https://raw.githubusercontent.com/ajemvuma/grapple/master/1.png",
+            "collections":"Grapple",
             "downloadable":"true"
         },
         {
-            "name":"Name",
-            "author":"Name",
-            "url":"RAW Link",
-            "collections":"name, name",
+            "name":"Biggie",
+            "author":"Metodix",
+            "url":"https://raw.githubusercontent.com/ajemvuma/grapple/master/10.png",
+            "collections":"Res",
             "downloadable":"true"
         },
         {
-            "name":"Name",
-            "author":"Name",
-            "url":"RAW Link",
-            "collections":"name, name",
+            "name":"Fiki",
+            "author":"Metodix",
+            "url":"https://raw.githubusercontent.com/ajemvuma/grapple/master/28.png",
+            "collections":"Grapple",
             "downloadable":"true"
         }
     ]
